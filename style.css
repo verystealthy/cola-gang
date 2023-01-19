@@ -1,3 +1,10 @@
+body {
+    font-family: 'IBM Plex Mono', monospace;
+  }
+  
+  a {
+      color: #4ecca3;
+  }
 .center {
     display: block;
     margin-left: auto;
