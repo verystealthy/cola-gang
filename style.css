@@ -29,3 +29,8 @@ p {
     word-wrap: break-word;
     font-size: large;
 }
+
+img {
+    width: 800;
+    height: auto;
+}
