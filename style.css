@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300&display=swap');
+
 body {
     font-family: 'IBM Plex Mono', monospace;
   }
   
-  a {
-      color: #4ecca3;
-  }
+a {
+    color: #4ecca3;
+}
 .center {
     display: block;
     margin-left: auto;
@@ -12,11 +14,15 @@ body {
     width: 50%;
   }
 
-  code {
+code {
     font-family: Consolas,"courier new";
     color: crimson;
     background-color: #f1f1f1;
     padding: 2px;
     font-size: 105%;
     line-break: auto;
-  }
+}
+
+p {
+    font-size: large;
+}
